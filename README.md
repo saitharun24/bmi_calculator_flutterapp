@@ -9,19 +9,16 @@ Below are the pictures of the application and the video of the app while it is w
 ### Home Page
 
 
-![Screenshot_1617005280](https://user-images.githubusercontent.com/50414959/112810295-7eb2ae00-9098-11eb-9515-b10f5961915e.jpg)
-
+![Home Page](https://user-images.githubusercontent.com/50414959/112810614-d4875600-9098-11eb-98e9-6b5181141e52.jpg)
 
 
 ### Result Page
 
 
-
-
+![Result Page](https://user-images.githubusercontent.com/50414959/112810650-dd782780-9098-11eb-85f2-14e3e253d7f7.jpg)
 
 
 ### App Working Video
-
 
 
 
