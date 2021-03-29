@@ -9,13 +9,14 @@ Below are the pictures of the application and the video of the app while it is w
 ### Home Page
 
 
-![Screenshot_1617005280](https://user-images.githubusercontent.com/50414959/112809467-a9503700-9097-11eb-9bfb-64dc7f2daae1.png)
+![Screenshot_1617005280](https://user-images.githubusercontent.com/50414959/112810295-7eb2ae00-9098-11eb-9515-b10f5961915e.jpg)
+
 
 
 ### Result Page
 
 
-![Screenshot_1617005354](https://user-images.githubusercontent.com/50414959/112809523-b79e5300-9097-11eb-989f-85e6e7537fc5.png)
+
 
 
 
@@ -23,5 +24,5 @@ Below are the pictures of the application and the video of the app while it is w
 
 
 
-https://user-images.githubusercontent.com/50414959/112809600-cc7ae680-9097-11eb-8fd9-be028868503a.mp4
+
 
