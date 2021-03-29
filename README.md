@@ -6,10 +6,10 @@ We have gone for a tile based approach here, where the components are divided in
 
 Below are the pictures of the application and the video of the app while it is working.
 
-### Home Page                                                               Result Page
+### Home Page
 
 
-![Home Page](https://user-images.githubusercontent.com/50414959/112810614-d4875600-9098-11eb-98e9-6b5181141e52.jpg)                                                               ![Result Page](https://user-images.githubusercontent.com/50414959/112810650-dd782780-9098-11eb-85f2-14e3e253d7f7.jpg)
+![Home Page](https://user-images.githubusercontent.com/50414959/112810614-d4875600-9098-11eb-98e9-6b5181141e52.jpg)
 
 
 ### Result Page
@@ -21,5 +21,5 @@ Below are the pictures of the application and the video of the app while it is w
 ### App Working Video
 
 
-
+![BMI App Video](https://user-images.githubusercontent.com/50414959/112814920-65f8c700-909d-11eb-90a6-36bafbdbaf36.gif)
 
